@@ -24,63 +24,69 @@ Built in **Kotlin**, this app enables seamless order management, admin creation,
 ### 🔻 Admin Views
 
 <table align="center">
+  <!-- Row 1: 5 images -->
   <tr>
     <td align="center">
-      <div style="width:160px; height:280px; overflow:hidden;">
-        <img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/login.png" width="160" style="object-fit:cover; height:100%;">
+      <div style="width:200px; height:320px; overflow:hidden;">
+        <img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/login.png" width="200" style="object-fit:cover; height:100%;">
       </div>
       <b>Login Activity</b>
     </td>
     <td align="center">
-      <div style="width:160px; height:280px; overflow:hidden;">
-        <img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/main.png" width="160" style="object-fit:cover; height:100%;">
+      <div style="width:200px; height:320px; overflow:hidden;">
+        <img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/main.png" width="200" style="object-fit:cover; height:100%;">
       </div>
       <b>Main Activity</b>
     </td>
     <td align="center">
-      <div style="width:160px; height:280px; overflow:hidden;">
-        <img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/pendingorder.png" width="160" style="object-fit:cover; height:100%;">
+      <div style="width:200px; height:320px; overflow:hidden;">
+        <img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/pendingorder.png" width="200" style="object-fit:cover; height:100%;">
       </div>
       <b>Pending Orders</b>
     </td>
     <td align="center">
-      <div style="width:160px; height:280px; overflow:hidden;">
-        <img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/addmenu.png" width="160" style="object-fit:cover; height:100%;">
+      <div style="width:200px; height:320px; overflow:hidden;">
+        <img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/addmenu.png" width="200" style="object-fit:cover; height:100%;">
       </div>
       <b>Add Item</b>
     </td>
     <td align="center">
-      <div style="width:160px; height:280px; overflow:hidden;">
-        <img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/app%20items.png" width="160" style="object-fit:cover; height:100%;">
+      <div style="width:200px; height:320px; overflow:hidden;">
+        <img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/app%20items.png" width="200" style="object-fit:cover; height:100%;">
       </div>
       <b>App Items Activity</b>
     </td>
+  </tr>
+
+  <!-- Row 2: 4 images -->
+  <tr>
     <td align="center">
-      <div style="width:160px; height:280px; overflow:hidden;">
-        <img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/allOrderDetails.png" width="160" style="object-fit:cover; height:100%;">
+      <div style="width:200px; height:320px; overflow:hidden;">
+        <img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/allOrderDetails.png" width="200" style="object-fit:cover; height:100%;">
       </div>
       <b>All Order Details</b>
     </td>
     <td align="center">
-      <div style="width:160px; height:280px; overflow:hidden;">
-        <img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/ordersummary.png" width="160" style="object-fit:cover; height:100%;">
+      <div style="width:200px; height:320px; overflow:hidden;">
+        <img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/ordersummary.png" width="200" style="object-fit:cover; height:100%;">
       </div>
       <b>Order Summary</b>
     </td>
     <td align="center">
-      <div style="width:160px; height:280px; overflow:hidden;">
-        <img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/profile.png" width="160" style="object-fit:cover; height:100%;">
+      <div style="width:200px; height:320px; overflow:hidden;">
+        <img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/profile.png" width="200" style="object-fit:cover; height:100%;">
       </div>
       <b>Profile Activity</b>
     </td>
     <td align="center">
-      <div style="width:160px; height:280px; overflow:hidden;">
-        <img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/createnewadmin.png" width="160" style="object-fit:cover; height:100%;">
+      <div style="width:200px; height:320px; overflow:hidden;">
+        <img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/createnewadmin.png" width="200" style="object-fit:cover; height:100%;">
       </div>
       <b>Create Admin</b>
     </td>
   </tr>
 </table>
+
 
 
 ---
