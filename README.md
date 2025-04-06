@@ -25,18 +25,36 @@ Built in **Kotlin**, this app enables seamless order management, admin creation,
 
 <table align="center">
   <tr>
-    <td align="center"><img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/login.png" width="140"><br><b>Login</b></td>
-     <td align="center"><img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/main.png" width="140"><br><b>mainActivity</b></td>
-      <td align="center"><img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/pendingorder.png" width="140"><br><b>pendingOrder</b></td>
-       <td align="center"><img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/addmenu.png" width="140"><br><b>Add food item</b></td>
-        <td align="center"><img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/app%20items.png" width="140"><br><b>app items</b></td>
-         <td align="center"><img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/allOrderDetails.png" width="140"><br><b>All Orders Details</b></td>
-          <td align="center"><img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/ordersummary.png" width="140"><br><b>Order summary</b></td>
-           <td align="center"><img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/profile.png" width="140"><br><b>profile</b></td>
-            <td align="center"><img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/createnewadmin.png" width="140"><br><b>Create new admin</b></td>
-   
+    <td align="center">
+      <img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/login.png" width="140" height="300"><br><b>Login</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/main.png" width="140" height="300"><br><b>Main Activity</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/pendingorder.png" width="140" height="300"><br><b>Pending Orders</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/addmenu.png" width="140" height="300"><br><b>Add Food Item</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/app%20items.png" width="140" height="300"><br><b>App Items</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/allOrderDetails.png" width="140" height="300"><br><b>All Order Details</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/ordersummary.png" width="140" height="300"><br><b>Order Summary</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/profile.png" width="140" height="300"><br><b>Profile</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/createnewadmin.png" width="140" height="300"><br><b>Create New Admin</b>
+    </td>
   </tr>
 </table>
+
 
 ---
 
