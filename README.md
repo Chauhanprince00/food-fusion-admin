@@ -26,31 +26,58 @@ Built in **Kotlin**, this app enables seamless order management, admin creation,
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/login.png" width="160" height="200"><br><b>Login Activity</b>
+      <div style="width:160px; height:280px; overflow:hidden;">
+        <img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/login.png" width="160" style="object-fit:cover; height:100%;">
+      </div>
+      <b>Login Activity</b>
     </td>
     <td align="center">
-      <img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/main.png" width="160" height="200"><br><b>Main Activity</b>
+      <div style="width:160px; height:280px; overflow:hidden;">
+        <img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/main.png" width="160" style="object-fit:cover; height:100%;">
+      </div>
+      <b>Main Activity</b>
     </td>
     <td align="center">
-      <img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/pendingorder.png" width="160" height="200"><br><b>Pending Orders</b>
+      <div style="width:160px; height:280px; overflow:hidden;">
+        <img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/pendingorder.png" width="160" style="object-fit:cover; height:100%;">
+      </div>
+      <b>Pending Orders</b>
     </td>
     <td align="center">
-      <img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/addmenu.png" width="160" height="200"><br><b>Add Item</b>
+      <div style="width:160px; height:280px; overflow:hidden;">
+        <img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/addmenu.png" width="160" style="object-fit:cover; height:100%;">
+      </div>
+      <b>Add Item</b>
     </td>
     <td align="center">
-      <img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/app%20items.png" width="160" height="200"><br><b>App Items Activity</b>
+      <div style="width:160px; height:280px; overflow:hidden;">
+        <img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/app%20items.png" width="160" style="object-fit:cover; height:100%;">
+      </div>
+      <b>App Items Activity</b>
     </td>
     <td align="center">
-      <img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/allOrderDetails.png" width="160" height="200"><br><b>All Order Details</b>
+      <div style="width:160px; height:280px; overflow:hidden;">
+        <img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/allOrderDetails.png" width="160" style="object-fit:cover; height:100%;">
+      </div>
+      <b>All Order Details</b>
     </td>
     <td align="center">
-      <img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/ordersummary.png" width="160" height="200"><br><b>Order Summary</b>
+      <div style="width:160px; height:280px; overflow:hidden;">
+        <img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/ordersummary.png" width="160" style="object-fit:cover; height:100%;">
+      </div>
+      <b>Order Summary</b>
     </td>
     <td align="center">
-      <img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/profile.png" width="160" height="200"><br><b>Profile Activity</b>
+      <div style="width:160px; height:280px; overflow:hidden;">
+        <img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/profile.png" width="160" style="object-fit:cover; height:100%;">
+      </div>
+      <b>Profile Activity</b>
     </td>
     <td align="center">
-      <img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/createnewadmin.png" width="160" height="200"><br><b>Create Admin</b>
+      <div style="width:160px; height:280px; overflow:hidden;">
+        <img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/createnewadmin.png" width="160" style="object-fit:cover; height:100%;">
+      </div>
+      <b>Create Admin</b>
     </td>
   </tr>
 </table>
