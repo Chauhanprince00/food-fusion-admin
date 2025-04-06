@@ -35,7 +35,7 @@ Built in **Kotlin**, this app enables seamless order management, admin creation,
       <img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/pendingorder.png" width="160" height="200"><br><b>Pending Orders</b>
     </td>
     <td align="center">
-      <img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/addmenu.png" width="160" height="200"><br><b>Add Food Item</b>
+      <img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/addmenu.png" width="160" height="200"><br><b>Add Item</b>
     </td>
     <td align="center">
       <img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/app%20items.png" width="160" height="200"><br><b>App Items Activity</b>
@@ -50,7 +50,7 @@ Built in **Kotlin**, this app enables seamless order management, admin creation,
       <img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/profile.png" width="160" height="200"><br><b>Profile Activity</b>
     </td>
     <td align="center">
-      <img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/createnewadmin.png" width="160" height="200"><br><b>Create New Admin</b>
+      <img src="https://github.com/Chauhanprince00/food-fusion-admin/blob/master/createnewadmin.png" width="160" height="200"><br><b>Create Admin</b>
     </td>
   </tr>
 </table>
